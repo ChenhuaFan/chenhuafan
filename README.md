@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Chenhua Fan (Sam), a student at USC. Here are my repositories 
+I'm Chenhua Fan (Sam), a student at USC. Here is my GitHub [page](https://github.com/ChenhuaFan)
 
 Nice to see you! 👋
 
