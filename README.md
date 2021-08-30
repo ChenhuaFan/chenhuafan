@@ -19,6 +19,4 @@ I'm Chenhua Fan (Sam), a student at USC. Here is my GitHub [page](https://github
 
 Nice to see you! 👋
 
-- 🔭 I'm currently working on my Blog and the Online resume project. I hope I can have a better place to show myself. Besides, I am also working on an English learning app.
-- 🌱 I'm currently learning C++. I'm trying to develop my HTTP Server where I can deploy my Blog and resume project.
-- 🤔 Algorithm training is my top target now.
+🔭 I'm currently working on my Blog and the Online resume project. I hope I can have a better place to show myself.
