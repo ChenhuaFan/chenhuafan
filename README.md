@@ -1,22 +1,9 @@
 ### Hi there 
 
-<!--
-**ChenhuaFan/chenhuafan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Chenhua Fan (Sam), a student at USC. Here is my GitHub [page](https://github.com/ChenhuaFan)
+- A skilled software engineer specializing in web development and mobile apps. Proficient in various technologies, including HTML, CSS, JavaScript, React, Vue, Angular, NodeJS, etc.
+- Expert in GraphQL and robust and scalable RESTful APIs
+- Adept at streamlining development workflows through automation. Utilized Git, GitHub Actions, Google Cloud, AWS services, and GitLab CI to reduce workloads, improving efficiency during development and deployment processes
+- Experienced in Agile development methodologies, collaborating effectively within cross-functional teams
+- Delivering high-quality software through rigorous testing, code reviews, and performance benchmarks
 
 Nice to see you! 👋
-
-🔭 I'm currently working on my Blog and the Online resume project. I hope I can have a better place to show myself.
